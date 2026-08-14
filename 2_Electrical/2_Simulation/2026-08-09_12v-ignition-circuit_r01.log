@@ -1,16 +1,16 @@
 LTspice 26.0.2 for Windows
-Circuit: C:\dev\MR-Launch-Controller\2_Electrical\2_Simulation\2026-08-09_12v-ignition-circuit_r00.net
-Start Time: Mon Aug 10 21:24:18 2026
+Circuit: C:\dev\MR-Launch-Controller\2_Electrical\2_Simulation\2026-08-09_12v-ignition-circuit_r01.net
+Start Time: Mon Aug 10 22:21:56 2026
 solver = Normal
 Maximum thread count: 8
 tnom = 27
 temp = 27
 method = trap
 Direct Newton iteration succeeded in finding operating point.
-Total elapsed time: 0.324 seconds.
+Total elapsed time: 0.379 seconds.
 
 Files loaded:
-C:\dev\MR-Launch-Controller\2_Electrical\2_Simulation\2026-08-09_12v-ignition-circuit_r00.net
+C:\dev\MR-Launch-Controller\2_Electrical\2_Simulation\2026-08-09_12v-ignition-circuit_r01.net
 C:\Users\chill\AppData\Local\LTspice\lib\cmp\standard.dio
 C:\Users\chill\AppData\Local\LTspice\lib\cmp\standard.bjt
 C:\Users\chill\AppData\Local\LTspice\lib\cmp\standard.mos
